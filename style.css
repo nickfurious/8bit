@@ -6,6 +6,10 @@ header {
   background-color: yellow
 }
 
+body {
+  background-image: url(https://i2.wp.com/batman-news.com/wp-content/uploads/2019/07/Wu-Tang-Clan-logo.jpg?resize=696%2C392&quality=80&strip=info&ssl=1);
+}
+
 h1 {
   color: black;
   float: inline-start;
